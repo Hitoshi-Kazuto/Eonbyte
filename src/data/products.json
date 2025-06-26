@@ -123,22 +123,22 @@
     {
       "name": "Dell Laptop",
       "image": "/products/pc-laptops/dell-l.png",
-      "price": "₹Starts from ₹32,000"
+      "price": "Starts from ₹32,000"
     },
     {
       "name": "Acer Laptop",
       "image": "/products/pc-laptops/acer-l.png",
-      "price": "₹Starts from ₹30,000"
+      "price": "Starts from ₹30,000"
     },
     {
       "name": "Lenovo Laptop",
       "image": "/products/pc-laptops/lenovo-l.png",
-      "price": "₹Starts from ₹32,000"
+      "price": "Starts from ₹32,000"
     },
     {
       "name": "HP Laptop",
       "image": "/products/pc-laptops/hp-l.png",
-      "price": "₹Starts from ₹32,000"
+      "price": "Starts from ₹32,000"
     },
     {
       "name": "Dell Monitor",
