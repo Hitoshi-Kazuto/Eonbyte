@@ -1,0 +1,360 @@
+{
+  "scientific-instruments": [
+    {
+      "name": "Automatic Weather Station",
+      "image": "/products/scientific-instruments/aws.png",
+      "price": ""
+    },
+    {
+      "name": "Hydrological Stations",
+      "image": "/products/scientific-instruments/hydrological-stations.png",
+      "price": ""
+    },
+    {
+      "name": "RSS-2-300W Surface Velocity Radar + SmartObserver Datalogger",
+      "images": ["/products/scientific-instruments/surface-velocity-radar.png",
+                "/products/scientific-instruments/surface-velocity-radar-2.png",
+                "/products/scientific-instruments/datalogger.png",
+                "/products/scientific-instruments/datalogger-2.png"
+              ],
+      "price": "₹8,50,000"
+    },
+    {
+      "name": "Total Organic Carbon Analyser",
+      "image": "/products/scientific-instruments/carbon-analyser.png",
+      "price": "₹15,70,000"
+    },
+    {
+      "name": "Microwave Digestion System",
+      "image": "/products/scientific-instruments/digestion-system.jpg",
+      "price": "LDMS1200 - ₹12,75,000"
+    },
+    {
+      "name": "Karl Fischer Tritator",
+      "image": "/products/scientific-instruments/karl-fisher-tritator.png",
+      "price": "₹4,80,000"
+    },
+    {
+      "name": "Automatic Potential Tritator",
+      "image": "/products/scientific-instruments/auto-potential-tritator.png",
+      "price": "₹4,00,000"
+    },
+    {
+      "name": "COD Analyser with Digestor",
+      "image": "/products/scientific-instruments/cod-analyser.png",
+      "price": "₹2,00,000"
+    },
+    {
+      "name": "BOD Analyser",
+      "image": "/products/scientific-instruments/bod-analyser.png",
+      "price": "₹1,92,000"
+    },
+    {
+      "name": "Lyophilizer Freeze Dryer",
+      "image": "/products/scientific-instruments/lyophilizer-freeze-dryer-2.png",
+      "price": "₹6,00,000"
+    },
+    {
+      "name": "Lyophilizer Freeze Dryer 2",
+      "image": "/products/scientific-instruments/lyophilizer-freeze-dryer.png",
+      "price": "₹5,50,000"
+    },
+    {
+      "name": "Rotary Evaporator",
+      "image": "/products/scientific-instruments/rotary-evaporator.png",
+      "price": "₹2,00,000"
+    },
+    {
+      "name": "Automatic Density Meter",
+      "image": "/products/scientific-instruments/auto-density-meter.png",
+      "price": "₹5,00,000"
+    },
+    {
+      "name": "Elisa Microplate Reader",
+      "image": "/products/scientific-instruments/microplate-reader.png",
+      "price": "₹2,25,000"
+    },
+    {
+      "name": "Analytical Balance (KAB8L, KAB9L)",
+      "image": "/products/scientific-instruments/analytical-balance.png",
+      "price": "₹1,30,000 - ₹1,50,000"
+    },
+    {
+      "name": "Semi Micro / Analytical Balance (TAB9T)",
+      "image": "/products/scientific-instruments/tab9t.png",
+      "price": "₹1,90,000"
+    },
+    {
+      "name": "Semi Micro / Analytical Balance (KAB4L, KAB7L)",
+      "image": "/products/scientific-instruments/analytical-balance-1.png",
+      "price": "₹1,65,000 - ₹2,00,000"
+    },
+    {
+      "name": "Microvolume Spectrophotometer",
+      "image": "/products/scientific-instruments/microv-spectro.png",
+      "price": "₹4,00,000"
+    },
+    {
+      "name": "Gradient PCR Thermal Cycler",
+      "image": "/products/scientific-instruments/thermal-cycler.png",
+      "price": "₹2,75,000"
+    },
+    {
+      "name": "Nucleic Acid Extractor",
+      "image": "/products/scientific-instruments/nuclie-acid-extractor.png",
+      "price": "₹4,00,000"
+    }
+  ],
+  "pc-laptops": [
+    {
+      "name": "Dell PC",
+      "images": ["/products/pc-laptops/dell-pc-2.png",
+                  "/products/pc-laptops/dell-pc.jpeg"
+                ],
+      "price": "Starts from ₹32,000"
+    },
+    {
+      "name": "Acer PC",
+      "images": ["/products/pc-laptops/acer-pc.png",
+                "/products/pc-laptops/acer-pc-2.png"
+               ],
+      "price": "Starts from ₹30,000"
+    },
+    {
+      "name": "Dell Laptop",
+      "image": "/products/pc-laptops/dell-l.png",
+      "price": "₹Starts from ₹32,000"
+    },
+    {
+      "name": "Acer Laptop",
+      "image": "/products/pc-laptops/acer-l.png",
+      "price": "₹Starts from ₹30,000"
+    },
+    {
+      "name": "Lenovo Laptop",
+      "image": "/products/pc-laptops/lenovo-l.png",
+      "price": "₹Starts from ₹32,000"
+    },
+    {
+      "name": "HP Laptop",
+      "image": "/products/pc-laptops/hp-l.png",
+      "price": "₹Starts from ₹32,000"
+    },
+    {
+      "name": "Dell Monitor",
+      "image": "/products/pc-laptops/dell-m.png",
+      "price": "₹1,71,000"
+    },
+    {
+      "name": "Acer Monitor",
+      "image": "/products/pc-laptops/acer-m.png",
+      "price": "₹2,35,700"
+    },
+    {
+      "name": "Lenovo Monitor",
+      "image": "/products/pc-laptops/lenovo-m.png",
+      "price": "₹14,500"
+    },
+    {
+      "name": "HP Monitor",
+      "image": "/products/pc-laptops/hp-m.png",
+      "price": "₹59,000"
+    }
+
+  ],
+  "chemicals": [
+    {
+      "name": "Acetone",
+      "image": "/products/chemicals/acetone.jpeg",
+      "price": "₹40,000–₹80,000"
+    },
+    {
+      "name": "Isopropanol",
+      "image": "/products/chemicals/isopropanol.jpeg",
+      "price": "₹40,000–₹80,000"
+    }
+  ],
+  "server-workstations": [
+    {
+      "name": "Altos Server",
+      "image": "/products/server-workstations/altos-server.png",
+      "price": "Starts from ₹70,000"
+    },
+    {
+      "name": "Altos Workstation",
+      "images": ["/products/server-workstations/altos-workstation.png",
+                "/products/server-workstations/altos-workstation-2.jpeg",
+                "/products/server-workstations/altos-workstation-3.jpeg"
+                ],
+      "price": "Starts from ₹70,000"
+    },
+    {
+      "name": "Tyrone Server",
+      "image": "/products/server-workstations/tyrone-server.png",
+      "price": "Starts from ₹50,000"
+    },
+    {
+      "name": "Tyrone Workstation",
+      "image": "/products/server-workstations/tyrone-workstation.png",
+      "price": "Starts from ₹50,000"
+    },
+    {
+      "name": "HP Server",
+      "image": "/products/server-workstations/hp-server.png",
+      "price": "Starts from ₹50,000"
+    },
+    {
+      "name": "Dell Server",
+      "image": "/products/server-workstations/dell-server.png",
+      "price": "Starts from ₹60,000"
+    }
+  ],
+  "pc-laptop-parts" : [
+    {
+      "name": "Apple Keyboard Mouse",
+      "image": "/products/pc-laptop-parts/apple-km.png",
+      "price": "₹27,100"
+    },
+    {
+      "name": "Dell Keyboard Mouse",
+      "image": "/products/pc-laptop-parts/dell-km.png",
+      "price": "₹2,499"
+    },
+    {
+      "name": "HP Keyboard Mouse",
+      "image": "/products/pc-laptop-parts/hp-km.png",
+      "price": "₹2,499"
+    },
+    {
+      "name": "Nvidia H100 Tenser Core GPU (80GB)",
+      "image": "/products/pc-laptop-parts/nvidia-h100.jpeg",
+      "price": "₹3,80,000"
+    },
+    {
+      "name": "MSI Geforse RTX 5090",
+      "image": "/products/pc-laptop-parts/msi.jpeg",
+      "price": "₹2,80,000 - ₹3,40,000"
+    }
+  ],
+  "video-conferencing-projectors" : [
+    {
+      "name": "Phillips PSE0600PLUS Video Confenrencing Camera",
+      "images": ["/products/video-conferencing-projectors/phillips-vc.png",
+                "/products/video-conferencing-projectors/p-vc-1.png"
+                ],
+      "price": "₹"
+    },
+    {
+      "name": "Phillips PSE0560PRO Video Confenrencing Camera",
+      "images": ["/products/video-conferencing-projectors/phillips-vc-2.png",
+                "/products/video-conferencing-projectors/p-vc-2.png"
+                ],
+      "price": "₹"
+    },
+    {
+      "name": "Promark Video Conferencing Camera",
+      "image": "/products/video-conferencing-projectors/promark-vc.png",
+      "price": "₹35,000"
+    },
+    {
+      "name": "BenQ Projector",
+      "image": "/products/video-conferencing-projectors/benq-p.png",
+      "price": "₹33,000"
+    },
+    {
+      "name": "Epson Projector",
+      "image": "/products/video-conferencing-projectors/epson-p.png",
+      "price": "₹67,900"
+    },
+    {
+      "name": "Logitech Webcam",
+      "image": "/products/video-conferencing-projectors/promark-vc.png",
+      "price": "₹2,00,000"
+    },
+    {
+      "name": "ViewSonic LFD Screen ",
+      "image": "/products/video-conferencing-projectors/viewsonic-lfd-screen.png",
+      "price": "₹6,45,000"
+    },
+    {
+      "name": "ViewSonic LFD Screen",
+      "image": "/products/video-conferencing-projectors/viewsonic-lfd-screen-2.png",
+      "price": "₹38,00,000"
+    },
+    {
+      "name": "LG LFD Screen",
+      "image": "/products/video-conferencing-projectors/lg-lfd-screen.png",
+      "price": "₹65,00,000"
+    }
+  ],
+  "gaming-furniture" : [
+    {
+      "name": "Greensoul Gaming Chair",
+      "images": ["/products/gaming-furniture/greensoul-gc.jpg",
+                "/products/gaming-furniture/greensoul-gc-2.jpg"
+              ],
+      "price": "₹10,000 - ₹35,000"
+    },
+    {
+      "name": "Razer Gaming Chair",
+      "image": "/products/gaming-furniture/razer-gc.jpg",
+      "price": "₹30,000 - 2,00,000"
+    },
+    {
+      "name": "Riyan Luxiwood Gaming Table",
+      "image": "/products/gaming-furniture/riyan-luxiwood-gt.jpg",
+      "price": "₹"
+    },
+    {
+      "name": "Tevako Gaming Table",
+      "images": ["/products/gaming-furniture/oc.png",
+                  "/products/gaming-furniture/oc-2.png"
+                ],
+      "price": "₹"
+    }
+  ],
+  "office-furniture" : [
+    {
+      "name": "Cellbell Office Chair",
+      "image": "/products/office-furniture/cellbell-oc-2.jpg",
+      "price": "₹4,000 - ₹65,000"
+    },
+    {
+      "name": "Cellbell Office Chair",
+      "image": "/products/office-furniture/cellbell-oc.png",
+      "price": "₹4,000 - ₹65,000"
+    },
+    {
+      "name": "Innowin Office Chair",
+      "image": "/products/office-furniture/innowin-oc.png",
+      "price": "₹4,000 - ₹65,000"
+    }
+  ],
+  "3d-printers" : [
+    {
+      "name": "Bamboo Lab A1 Combo 3D printer",
+      "image": "/products/3d-printers/3d-printer.jpeg",
+      "price": "₹49,999"
+    },
+    {
+      "name": "Bamboo Lab A1 3D printer",
+      "image": "/products/3d-printers/3d-printer-3.jpeg",
+      "price": "₹32,499"
+    },
+    {
+      "name": "Bamboo Lab P1S Combo 3D printer",
+      "image": "/products/3d-printers/3d-printer-2.png",
+      "price": "₹92,999"
+    },
+    {
+      "name": "Bamboo Lab X1 Carbon Multi Color 3D printer",
+      "image": "/products/3d-printers/3d-printer-4.jpeg",
+      "price": "₹1,79,999"
+    },
+    {
+      "name": "Bamboo Lab (ASA - White) Filament",
+      "image": "/products/3d-printers/filament.jpeg",
+      "price": "₹4,484"
+    }
+  ]
+} 
