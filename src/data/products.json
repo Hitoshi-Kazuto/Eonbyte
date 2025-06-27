@@ -112,6 +112,11 @@
       "price": "Starts from ₹1,35,000"
     },
     {
+      "name": "Apple Macbooks",
+      "image": "/products/pc-laptops/macbook.jpg",
+      "price": "Starts from ₹60,000"
+    },
+    {
       "name": "Dell PCs",
       "images": ["/products/pc-laptops/dell-pc-2.png",
                   "/products/pc-laptops/dell-pc.jpeg"
@@ -161,6 +166,11 @@
   ],
   "server-workstations": [
     {
+      "name": "Apple Macs",
+      "image": "/products/server-workstations/macs.jpg",
+      "price": "Range starts from ₹60,000"
+    },
+    {
       "name": "Altos Server",
       "image": "/products/server-workstations/altos-server.png",
       "price": "Starts from ₹70,000"
@@ -195,11 +205,6 @@
     }
   ],
   "pc-laptop-parts" : [
-    {
-      "name": "Apple Macs",
-      "image": "/products/pc-laptop-parts/macs.jpg",
-      "price": "Range starts from ₹60,000"
-    },
     {
       "name": "Dell Monitors",
       "image": "/products/pc-laptop-parts/dell-m.png",
@@ -281,12 +286,12 @@
       "price": "Starts from ₹2,499"
     },
     {
-      "name": "Nvidia Server GPUs (80GB)",
+      "name": "GPUs for Server (Nvidia, AMD, etc)",
       "image": "/products/pc-laptop-parts/nvidia-h100.jpeg",
       "price": "Starts from ₹38,00,000"
     },
     {
-      "name": "MSI RTX GPUs ",
+      "name": "GPUs (MSI, Asus ROG,vGigabyte, Zotac, Nvidia & more)",
       "image": "/products/pc-laptop-parts/msi.jpeg",
       "price": "₹2,80,000 - ₹3,40,000"
     }
