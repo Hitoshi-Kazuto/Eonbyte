@@ -166,12 +166,12 @@
     {
       "name": "Acetone",
       "image": "/products/chemicals/acetone.jpeg",
-      "price": "₹40,000–₹80,000"
+      "price": "₹950/L"
     },
     {
       "name": "Isopropanol",
       "image": "/products/chemicals/isopropanol.jpeg",
-      "price": "₹40,000–₹80,000"
+      "price": "₹390/L"
     }
   ],
   "server-workstations": [
