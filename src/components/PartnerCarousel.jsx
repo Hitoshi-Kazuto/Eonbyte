@@ -10,10 +10,17 @@ const brands = [
   "/brands/brand7.png",
   "/brands/brand8.png",
   "/brands/brand9.png",
-  "/brands/brand10.png"
+  "/brands/brand10.png",
+  "/brands/brand11.png",
+  "/brands/brand12.png",
+  "/brands/brand13.png",
+  "/brands/brand14.png",
+  "/brands/brand15.png",
+  "/brands/brand16.jpg",
+  "/brands/brand17.png",
 ];
 
-const SCROLL_SPEED = 0.5; // px per frame (adjust for smoothness)
+const SCROLL_SPEED = 1; // px per frame (adjust for smoothness)
 
 const PartnerCarousel = () => {
   const scrollRef = useRef(null);
@@ -55,7 +62,7 @@ const PartnerCarousel = () => {
   return (
     <section className="h-[28vh] sm:h-[34vh] bg-white flex flex-col justify-center">
       <h2 className="text-xl sm:text-3xl font-semibold text-center mb-2 sm:mb-4 text-blue-900 w-full">Our Partners</h2>
-      <div className="relative w-full max-w-5xl mx-auto px-2 sm:px-0">
+      <div className="relative w-full max-w-6xl mx-auto px-2 sm:px-0">
         <div
           ref={scrollRef}
           className="flex overflow-x-auto gap-4 sm:gap-8 px-2 sm:px-16 scrollbar-hide select-none"

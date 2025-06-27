@@ -9,4 +9,8 @@
 .scrollbar-hide {
   -ms-overflow-style: none;
   scrollbar-width: none;
+}
+
+html {
+  scroll-behavior: smooth;
 } 

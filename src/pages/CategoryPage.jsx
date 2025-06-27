@@ -11,7 +11,10 @@ const CategoryPage = () => {
 
   return (
     <div className="max-w-6xl mx-auto py-12 px-4">
-      <h2 className="text-3xl font-bold text-blue-900 mb-8">{category?.name || "Category"}</h2>
+      <h2 className="text-3xl font-bold text-blue-900 mb-2">{category?.name || "Category"}</h2>
+      {category?.info && (
+        <p className="text-blue-700 mb-8">{category.info}</p>
+      )}
       <div className="grid grid-cols-2 md:grid-cols-3 gap-6">
         {products.length ? (
           products.map((p, i) => <ProductCard key={i} product={p} categorySlug={slug} productIndex={i} />)

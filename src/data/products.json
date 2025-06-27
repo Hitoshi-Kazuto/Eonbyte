@@ -107,58 +107,43 @@
   ],
   "pc-laptops": [
     {
-      "name": "Dell PC",
+      "name": "Apple IMacs",
+      "image": "/products/pc-laptops/imac.jpg",
+      "price": "Starts from ₹1,35,000"
+    },
+    {
+      "name": "Dell PCs",
       "images": ["/products/pc-laptops/dell-pc-2.png",
                   "/products/pc-laptops/dell-pc.jpeg"
                 ],
       "price": "Starts from ₹32,000"
     },
     {
-      "name": "Acer PC",
+      "name": "Dell Laptops",
+      "image": "/products/pc-laptops/dell-l.png",
+      "price": "Starts from ₹32,000"
+    },
+    {
+      "name": "Acer PCs",
       "images": ["/products/pc-laptops/acer-pc.png",
                 "/products/pc-laptops/acer-pc-2.png"
                ],
       "price": "Starts from ₹30,000"
     },
     {
-      "name": "Dell Laptop",
-      "image": "/products/pc-laptops/dell-l.png",
-      "price": "Starts from ₹32,000"
-    },
-    {
-      "name": "Acer Laptop",
+      "name": "Acer Laptops",
       "image": "/products/pc-laptops/acer-l.png",
       "price": "Starts from ₹30,000"
     },
     {
-      "name": "Lenovo Laptop",
+      "name": "Lenovo Laptops",
       "image": "/products/pc-laptops/lenovo-l.png",
       "price": "Starts from ₹32,000"
     },
     {
-      "name": "HP Laptop",
+      "name": "HP Laptops",
       "image": "/products/pc-laptops/hp-l.png",
       "price": "Starts from ₹32,000"
-    },
-    {
-      "name": "Dell Monitor",
-      "image": "/products/pc-laptops/dell-m.png",
-      "price": "₹1,71,000"
-    },
-    {
-      "name": "Acer Monitor",
-      "image": "/products/pc-laptops/acer-m.png",
-      "price": "₹2,35,700"
-    },
-    {
-      "name": "Lenovo Monitor",
-      "image": "/products/pc-laptops/lenovo-m.png",
-      "price": "₹14,500"
-    },
-    {
-      "name": "HP Monitor",
-      "image": "/products/pc-laptops/hp-m.png",
-      "price": "₹59,000"
     }
 
   ],
@@ -211,150 +196,206 @@
   ],
   "pc-laptop-parts" : [
     {
-      "name": "Apple Keyboard Mouse",
+      "name": "Apple Macs",
+      "image": "/products/pc-laptop-parts/macs.jpg",
+      "price": "Range starts from ₹60,000"
+    },
+    {
+      "name": "Dell Monitors",
+      "image": "/products/pc-laptop-parts/dell-m.png",
+      "price": "Range starts from ₹1,71,000"
+    },
+    {
+      "name": "BenQ Monitors",
+      "image": "/products/pc-laptop-parts/benq-m.jpg",
+      "price": "Range starts from ₹7,000"
+    },
+    {
+      "name": "Acer Monitors",
+      "image": "/products/pc-laptop-parts/acer-m.png",
+      "price": "Range starts from ₹2,35,700"
+    },
+    {
+      "name": "Lenovo Monitors",
+      "image": "/products/pc-laptop-parts/lenovo-m.png",
+      "price": "Range starts from ₹14,500"
+    },
+    {
+      "name": "HP Monitors",
+      "image": "/products/pc-laptop-parts/hp-m.png",
+      "price": "Range Starts from ₹59,000"
+    },
+    {
+      "name": "Intel CPUs (i3, i5, i7, i9, i9 Ultra, etc)",
+      "image": "/products/pc-laptop-parts/intel-cpu.jpg",
+      "price": "Starts from ₹8,000"
+    },
+    {
+      "name": "AMD CPUs (AMD Ryzen 3,5,7,9, AMD Threadreaper, Ryzer AI, etc)",
+      "image": "/products/pc-laptop-parts/amd-cpu.jpg",
+      "price": "Starts from ₹7,000"
+    },
+    {
+      "name": "Motherboards (MIS, ASUS, Gigabyte & more)",
+      "image": "/products/pc-laptop-parts/motherboard.jpg",
+      "price": "Starts from ₹6,000"
+    },
+    {
+      "name": "RAM (Corsair, Crucial, G.Skill, Patriot Memory & more)",
+      "image": "/products/pc-laptop-parts/rams.jpg",
+      "price": "Starts from ₹2,000"
+    },
+    {
+      "name": "SSDs (WD, Samsung, Seagatte, Kingston, Crucial & more)",
+      "image": "/products/pc-laptop-parts/ssds.jpg",
+      "price": "Starts from ₹1,500"
+    },
+    {
+      "name": "HDDs (WD, Seagate, Toshiba & more)",
+      "image": "/products/pc-laptop-parts/hdds.jpg",
+      "price": "Starts from ₹4,000"
+    },
+    {
+      "name": "Power Supply Units (MSI, Cooler Master, Corsair, Circle, Ant eSports, & more)",
+      "image": "/products/pc-laptop-parts/psu.jpg",
+      "price": "Starts from ₹1,000"
+    },
+    {
+      "name": "CPU Coolers (MSI, Cooler Master, Corsair, Ant eSports, Arctic & more)",
+      "image": "/products/pc-laptop-parts/cooler.jpg",
+      "price": "Starts from ₹3,500"
+    },
+    {
+      "name": "Apple Keyboard Mouse Combos",
       "image": "/products/pc-laptop-parts/apple-km.png",
-      "price": "₹27,100"
+      "price": "Starts from ₹27,100"
     },
     {
-      "name": "Dell Keyboard Mouse",
+      "name": "Dell Keyboard Mouse Combos",
       "image": "/products/pc-laptop-parts/dell-km.png",
-      "price": "₹2,499"
+      "price": "Starts from ₹2,499"
     },
     {
-      "name": "HP Keyboard Mouse",
+      "name": "HP Keyboard Mouse Combos",
       "image": "/products/pc-laptop-parts/hp-km.png",
-      "price": "₹2,499"
+      "price": "Starts from ₹2,499"
     },
     {
-      "name": "Nvidia H100 Tenser Core GPU (80GB)",
+      "name": "Nvidia Server GPUs (80GB)",
       "image": "/products/pc-laptop-parts/nvidia-h100.jpeg",
-      "price": "₹3,80,000"
+      "price": "Starts from ₹38,00,000"
     },
     {
-      "name": "MSI Geforse RTX 5090",
+      "name": "MSI RTX GPUs ",
       "image": "/products/pc-laptop-parts/msi.jpeg",
       "price": "₹2,80,000 - ₹3,40,000"
     }
   ],
   "video-conferencing-projectors" : [
     {
-      "name": "Phillips PSE0600PLUS Video Confenrencing Camera",
+      "name": "Phillips Video Confenrencing Cameras",
       "images": ["/products/video-conferencing-projectors/phillips-vc.png",
-                "/products/video-conferencing-projectors/p-vc-1.png"
-                ],
-      "price": "₹"
-    },
-    {
-      "name": "Phillips PSE0560PRO Video Confenrencing Camera",
-      "images": ["/products/video-conferencing-projectors/phillips-vc-2.png",
+                "/products/video-conferencing-projectors/p-vc-1.png",
+                "/products/video-conferencing-projectors/phillips-vc-2.png",
                 "/products/video-conferencing-projectors/p-vc-2.png"
                 ],
-      "price": "₹"
+      "price": "Starts from 5,000"
     },
     {
-      "name": "Promark Video Conferencing Camera",
+      "name": "Promark Video Conferencing Cameras",
       "image": "/products/video-conferencing-projectors/promark-vc.png",
-      "price": "₹35,000"
+      "price": "Starts from ₹35,000"
     },
     {
-      "name": "BenQ Projector",
+      "name": "BenQ Projectors",
       "image": "/products/video-conferencing-projectors/benq-p.png",
-      "price": "₹33,000"
+      "price": "Starts from ₹33,000"
     },
     {
-      "name": "Epson Projector",
+      "name": "Epson Projectors",
       "image": "/products/video-conferencing-projectors/epson-p.png",
-      "price": "₹67,900"
+      "price": "Starts from ₹67,900"
     },
     {
-      "name": "Logitech Webcam",
+      "name": "Logitech Webcams",
       "image": "/products/video-conferencing-projectors/promark-vc.png",
-      "price": "₹2,00,000"
+      "price": "Starts form ₹2,00,000"
     },
     {
-      "name": "ViewSonic LFD Screen ",
-      "image": "/products/video-conferencing-projectors/viewsonic-lfd-screen.png",
-      "price": "₹6,45,000"
-    },
-    {
-      "name": "ViewSonic LFD Screen",
+      "name": "ViewSonic LFD Screens",
       "image": "/products/video-conferencing-projectors/viewsonic-lfd-screen-2.png",
-      "price": "₹38,00,000"
+      "price": "Starts from ₹38,00,000"
     },
     {
-      "name": "LG LFD Screen",
+      "name": "LG LFD Screens",
       "image": "/products/video-conferencing-projectors/lg-lfd-screen.png",
-      "price": "₹65,00,000"
+      "price": "Starts from ₹65,00,000"
     }
   ],
   "gaming-furniture" : [
     {
-      "name": "Greensoul Gaming Chair",
+      "name": "Greensoul Gaming Chairs",
       "images": ["/products/gaming-furniture/greensoul-gc.jpg",
                 "/products/gaming-furniture/greensoul-gc-2.jpg"
               ],
       "price": "₹10,000 - ₹35,000"
     },
     {
-      "name": "Razer Gaming Chair",
+      "name": "Cellbell Gaming Chairs",
+      "image": "/products/gaming-furniture/cellbell-oc-2.jpg",
+      "price": "₹4,000 - ₹65,000"
+    },
+    {
+      "name": "Razer Gaming Chairs",
       "image": "/products/gaming-furniture/razer-gc.jpg",
       "price": "₹30,000 - 2,00,000"
     },
     {
-      "name": "Riyan Luxiwood Gaming Table",
+      "name": "Riyan Luxiwood Gaming Tables",
       "image": "/products/gaming-furniture/riyan-luxiwood-gt.jpg",
-      "price": "₹"
+      "price": "₹Range starts from 5,000"
     },
     {
-      "name": "Tevako Gaming Table",
+      "name": "Tevako Gaming Tables",
       "images": ["/products/gaming-furniture/oc.png",
                   "/products/gaming-furniture/oc-2.png"
                 ],
-      "price": "₹"
+      "price": "Range starts from ₹5,000"
     }
   ],
   "office-furniture" : [
+    
     {
-      "name": "Cellbell Office Chair",
-      "image": "/products/office-furniture/cellbell-oc-2.jpg",
-      "price": "₹4,000 - ₹65,000"
-    },
-    {
-      "name": "Cellbell Office Chair",
+      "name": "Cellbell Office Chairs",
       "image": "/products/office-furniture/cellbell-oc.png",
       "price": "₹4,000 - ₹65,000"
     },
     {
-      "name": "Innowin Office Chair",
+      "name": "Innowin Office Chairs",
       "image": "/products/office-furniture/innowin-oc.png",
       "price": "₹4,000 - ₹65,000"
     }
   ],
   "3d-printers" : [
     {
-      "name": "Bamboo Lab A1 Combo 3D printer",
+      "name": "Bamboo Lab A1 Combo 3D printers",
       "image": "/products/3d-printers/3d-printer.jpeg",
       "price": "₹49,999"
     },
     {
-      "name": "Bamboo Lab A1 3D printer",
+      "name": "Bamboo Lab A1 3D printers",
       "image": "/products/3d-printers/3d-printer-3.jpeg",
       "price": "₹32,499"
     },
     {
-      "name": "Bamboo Lab P1S Combo 3D printer",
-      "image": "/products/3d-printers/3d-printer-2.png",
-      "price": "₹92,999"
-    },
-    {
-      "name": "Bamboo Lab X1 Carbon Multi Color 3D printer",
+      "name": "Bamboo Lab X1 Carbon Multi Color 3D printers",
       "image": "/products/3d-printers/3d-printer-4.jpeg",
-      "price": "₹1,79,999"
+      "price": "Starts from ₹1,79,999"
     },
     {
-      "name": "Bamboo Lab (ASA - White) Filament",
+      "name": "Bamboo Lab (ASA - White) Filaments",
       "image": "/products/3d-printers/filament.jpeg",
-      "price": "₹4,484"
+      "price": "Starts from ₹4,484"
     }
   ]
 } 
