@@ -45,7 +45,7 @@ export const categories = [
     name: "3D Printers",
     slug: "3d-printers",
     icon: "/icons/category8.png",
-    info: "Innovative 3D printers for all applications. Ranges starts from ₹25,000, some are listed below."
+    info: "Bamboo Lab 3D printers for all applications. Ranges starts from ₹25,000, some are listed below."
   },
   {
     name: "Chemicals",
