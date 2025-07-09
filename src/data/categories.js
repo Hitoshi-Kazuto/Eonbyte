@@ -9,13 +9,13 @@ export const categories = [
     name: "PC & Laptops",
     slug: "pc-laptops",
     icon: "/icons/category2.png",
-    info: "High-performance PCs and laptops for every need. Ranges mentioned below."
+    info: "High-performance PCs and laptops for every need. Some of them are listed below."
   },
   {
     name: "Server & Workstations",
     slug: "server-workstations",
     icon: "/icons/category3.png",
-    info: "Reliable servers and workstations for your business. Ranges mentioned below."
+    info: "Reliable servers and workstations for your business. Some of them are mentioned below."
   },
   {
     name: "PC & Laptop Accessories",
@@ -27,13 +27,13 @@ export const categories = [
     name: "Video Conferencing and Projectors",
     slug: "video-conferencing-projectors",
     icon: "/icons/category5.png",
-    info: "Enhance meetings with our conferencing solutions."
+    info: "Enhance meetings with our conferencing solutions. Some of them are listed below."
   },
   {
     name: "Gaming Furniture",
     slug: "gaming-furniture",
     icon: "/icons/category6.png",
-    info: "Comfort and style for every gamer."
+    info: "Comfort and style for every gamer. Some of them are listed below."
   },
   {
     name: "Office Furniture",
@@ -45,7 +45,7 @@ export const categories = [
     name: "3D Printers",
     slug: "3d-printers",
     icon: "/icons/category8.png",
-    info: "Bamboo Lab 3D printers for all applications. Ranges starts from ₹25,000, some are listed below."
+    info: "Bamboo Lab 3D printers for all applications. Range starts from ₹25,000. Some of them are listed below."
   },
   {
     name: "Chemicals",

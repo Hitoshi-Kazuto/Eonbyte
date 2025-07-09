@@ -3,12 +3,12 @@
     {
       "name": "Automatic Weather Station",
       "image": "/products/scientific-instruments/aws.png",
-      "price": ""
+      "price": "₹6,50,000"
     },
     {
       "name": "Hydrological Stations",
       "image": "/products/scientific-instruments/hydrological-stations.png",
-      "price": ""
+      "price": "₹8,50,000"
     },
     {
       "name": "RSS-2-300W Surface Velocity Radar + SmartObserver Datalogger",
@@ -162,6 +162,11 @@
       "name": "Isopropanol",
       "image": "/products/chemicals/isopropanol.jpeg",
       "price": "₹390/L"
+    },
+    {
+      "name": "E-Sun eResin (PLA)",
+      "image": "/products/chemicals/resin.jpg",
+      "price": "₹3,500/L"
     }
   ],
   "server-workstations": [
@@ -208,7 +213,7 @@
     {
       "name": "Dell Monitors",
       "image": "/products/pc-laptop-parts/dell-m.png",
-      "price": "Range starts from ₹1,71,000"
+      "price": "Range starts from ₹7,000"
     },
     {
       "name": "BenQ Monitors",
@@ -218,17 +223,17 @@
     {
       "name": "Acer Monitors",
       "image": "/products/pc-laptop-parts/acer-m.png",
-      "price": "Range starts from ₹2,35,700"
+      "price": "Range starts from ₹7,500"
     },
     {
       "name": "Lenovo Monitors",
       "image": "/products/pc-laptop-parts/lenovo-m.png",
-      "price": "Range starts from ₹14,500"
+      "price": "Range starts from ₹6,500"
     },
     {
       "name": "HP Monitors",
       "image": "/products/pc-laptop-parts/hp-m.png",
-      "price": "Range Starts from ₹59,000"
+      "price": "Range Starts from ₹6,500"
     },
     {
       "name": "Intel CPUs (i3, i5, i7, i9, i9 Ultra, etc)",
@@ -253,7 +258,7 @@
     {
       "name": "SSDs (WD, Samsung, Seagatte, Kingston, Crucial & more)",
       "image": "/products/pc-laptop-parts/ssds.jpg",
-      "price": "Starts from ₹1,500"
+      "price": "Starts from ₹2,000"
     },
     {
       "name": "HDDs (WD, Seagate, Toshiba & more)",
@@ -263,7 +268,7 @@
     {
       "name": "Power Supply Units (MSI, Cooler Master, Corsair, Circle, Ant eSports, & more)",
       "image": "/products/pc-laptop-parts/psu.jpg",
-      "price": "Starts from ₹1,000"
+      "price": "Starts from ₹1,500"
     },
     {
       "name": "CPU Coolers (MSI, Cooler Master, Corsair, Ant eSports, Arctic & more)",
@@ -276,24 +281,29 @@
       "price": "Starts from ₹27,100"
     },
     {
-      "name": "Dell Keyboard Mouse Combos",
-      "image": "/products/pc-laptop-parts/dell-km.png",
-      "price": "Starts from ₹2,499"
-    },
-    {
-      "name": "HP Keyboard Mouse Combos",
-      "image": "/products/pc-laptop-parts/hp-km.png",
-      "price": "Starts from ₹2,499"
-    },
-    {
-      "name": "GPUs for Server (Nvidia, AMD, etc)",
+      "name": "High-End GPUs for Server (Nvidia, AMD, etc)",
       "image": "/products/pc-laptop-parts/nvidia-h100.jpeg",
-      "price": "Starts from ₹38,00,000"
+      "price": "Starts from ₹2,00,000"
     },
     {
       "name": "GPUs (MSI, Asus ROG,vGigabyte, Zotac, Nvidia & more)",
       "image": "/products/pc-laptop-parts/msi.jpeg",
-      "price": "₹2,80,000 - ₹3,40,000"
+      "price": "₹3,000 - ₹4,00,000"
+    },
+    {
+      "name": "Headphones (HP, Razer, CosmicByte, Dell, Bose, Logitech, Hyper-X, Sony, JBL, Sennheiser and more)",
+      "image": "/products/pc-laptop-parts/headphone.jpg",
+      "price": "Starts from ₹1,500"
+    },
+    {
+      "name": "Keyboards (HP, Razer, Dell, Corsair, Logitech, Zebronics, Asus, Kreo and more)",
+      "image": "/products/pc-laptop-parts/keyboard.jpg",
+      "price": "Starts from ₹1,000"
+    },
+    {
+      "name": "Mouses (HP, Razer, Dell, Corsair, Logitech, Lenovo, Zebronics, Asus, Kreo, Acer and more)",
+      "image": "/products/pc-laptop-parts/mouse.jpg",
+      "price": "Starts from ₹500"
     }
   ],
   "video-conferencing-projectors" : [
@@ -309,17 +319,17 @@
     {
       "name": "Promark Video Conferencing Cameras",
       "image": "/products/video-conferencing-projectors/promark-vc.png",
-      "price": "Starts from ₹35,000"
+      "price": "Starts from ₹3,000"
     },
     {
       "name": "BenQ Projectors",
       "image": "/products/video-conferencing-projectors/benq-p.png",
-      "price": "Starts from ₹33,000"
+      "price": "Starts from ₹15,000"
     },
     {
       "name": "Epson Projectors",
       "image": "/products/video-conferencing-projectors/epson-p.png",
-      "price": "Starts from ₹67,900"
+      "price": "Starts from ₹25,000"
     },
     {
       "name": "Logitech Webcams",
@@ -329,12 +339,12 @@
     {
       "name": "ViewSonic LFD Screens",
       "image": "/products/video-conferencing-projectors/viewsonic-lfd-screen-2.png",
-      "price": "Starts from ₹38,00,000"
+      "price": "Starts from ₹2,00,000"
     },
     {
       "name": "LG LFD Screens",
       "image": "/products/video-conferencing-projectors/lg-lfd-screen.png",
-      "price": "Starts from ₹65,00,000"
+      "price": "Starts from ₹2,50,000"
     }
   ],
   "gaming-furniture" : [
@@ -356,16 +366,14 @@
       "price": "₹30,000 - 2,00,000"
     },
     {
-      "name": "Riyan Luxiwood Gaming Tables",
-      "image": "/products/gaming-furniture/riyan-luxiwood-gt.jpg",
-      "price": "₹Range starts from 5,000"
+      "name": "Greensoul Gaming Tables",
+      "image": "/products/gaming-furniture/greensoul-gt.jpg",
+      "price": "Starts from 16,000"
     },
     {
-      "name": "Tevako Gaming Tables",
-      "images": ["/products/gaming-furniture/oc.png",
-                  "/products/gaming-furniture/oc-2.png"
-                ],
-      "price": "Range starts from ₹5,000"
+      "name": "Riyan Luxiwood Gaming Tables",
+      "image": "/products/gaming-furniture/riyan-luxiwood-gt.jpg",
+      "price": "Starts from 5,000"
     }
   ],
   "office-furniture" : [
@@ -379,6 +387,23 @@
       "name": "Innowin Office Chairs",
       "image": "/products/office-furniture/innowin-oc.png",
       "price": "₹4,000 - ₹65,000"
+    },
+    {
+      "name": "Godrej Office Chairs",
+      "image": "/products/office-furniture/godrej-oc.jpg",
+      "price": "Starts from ₹6,000"
+    },
+    {
+      "name": "Greensoul Office Tables",
+      "image": "/products/office-furniture/greensoul-ot.jpg",
+      "price": "Starts from ₹6,000"
+    },
+    {
+      "name": "Tevako Office Tables",
+      "images": ["/products/office-furniture/oc.png",
+                  "/products/office-furniture/oc-2.png"
+                ],
+      "price": "Starts from ₹5,000"
     }
   ],
   "3d-printers" : [
