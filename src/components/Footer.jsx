@@ -8,17 +8,17 @@ const Footer = () => (
         <h4 className="font-bold text-lg mb-2">Eonbyte Technologies Pvt. Ltd.</h4>
       </div>
       <div>
-        <h4 className="font-bold text-lg mb-2">Contact</h4>
-        <a href="mailto:utkarshoberai@eonbytetechnologies.com" className="hover:underline">
-          utkarshoberai@eonbytetechnologies.com
-        </a>
-        <p></p>
-        <a href="tel:+919120780886" className="hover:underline">
+        <h4 className="font-bold text-lg mb-2">Contact Us</h4>
+        <a href="tel:+919120780886" className="hover:underline text-blue-200">
           (+91) 91207 80886
+        </a>
+        <h4 className="font-bold text-lg mb-2">Email Us</h4>
+        <a href="mailto:utkarshoberai@eonbytetechnologies.com" className="hover:underline text-blue-200">
+          utkarshoberai@eonbytetechnologies.com
         </a>
       </div>
     </div>
-    <p className="text-center text-sm mt-2 sm:mt-4 text-blue-200">&copy; {new Date().getFullYear()} Eonbyte Technologies Pvt. Ltd.</p>
+    <p className="text-center text-sm mt-5 sm:mt-8">&copy; {new Date().getFullYear()} Eonbyte Technologies Pvt. Ltd.</p>
   </footer>
 );
 
